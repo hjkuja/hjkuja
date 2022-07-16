@@ -5,6 +5,7 @@
     - Play games 🎮
 - 🌱 I’m always trying to learn some new things
 - 🌐 Check out [my home page](https://hjkuja.github.io/)
+- 🦊 Also on [GitLab](https://gitlab.com/hjkuja)
 - 🚀 I'm also on [LinkedIn](https://www.linkedin.com/in/hjkuja/)
 
 <!---
